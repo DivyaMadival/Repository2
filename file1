@@ -1,0 +1,11 @@
+What is Agile Methodology?
+Agile Methodology is a type of project management process,mainly used for software development.It involves constant collaboration with stakeholders and continuous improvement at every stage.
+Differences between Git and GitHub.
+Git:
+Git is a version control system which allows you to manage and keep track of your code.
+Git is installed in the local system.
+Git provides desktop interface namely gitGUI
+GitHub
+GitHub is a cloud based hosting service which allows you to manage your git repositories.
+GitHub is hosted on the web.
+GitHub provides desktop interface name GitHub Desktop.
